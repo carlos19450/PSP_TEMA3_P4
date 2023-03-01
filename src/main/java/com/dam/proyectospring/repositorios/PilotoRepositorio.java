@@ -1,4 +1,4 @@
-package main.java.com.dam.proyectospring.repositorios;
+package com.dam.proyectospring.repositorios;
 
 import com.dam.proyectospring.modelos.Piloto;
 import org.springframework.data.mongodb.repository.MongoRepository;
